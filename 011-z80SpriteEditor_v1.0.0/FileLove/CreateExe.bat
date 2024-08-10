@@ -1,0 +1,1 @@
+copy /b love.exe + z80Sprite_v1.love z80Sprite_v1.exe
