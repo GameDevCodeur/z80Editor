@@ -1,0 +1,2 @@
+
+del ASMAN.TTF /p 
